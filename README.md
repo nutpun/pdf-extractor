@@ -7,8 +7,8 @@ This project demonstrates how to extract text from a PDF file using the `PyPDF2`
 - Python 3.x
 - PyPDF2
 
-Install required Python libraries:
+## Install required Python libraries:
 pip install PyPDF2
 
-Run the script:
+## Run the script:
 python extract_text.py
