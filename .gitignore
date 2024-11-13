@@ -1,0 +1,11 @@
+# Node.js dependencies
+node_modules/
+
+# Temporary upload files
+uploads/
+
+# Environment files
+.env
+
+# Log files
+*.log
